@@ -236,3 +236,6 @@ This repository serves as the official landing page for Football Superstars. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Football Superstars today!**
+
+---
+**Last updated:** 2026-09-08 21:29:00 UTC
